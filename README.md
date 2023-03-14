@@ -8,5 +8,6 @@ WebSite: https://headphonelandingwebsite.netlify.app
 
 Video link: https://youtu.be/DgPEtIdiJZk
 
-[!https://youtu.be/DgPEtIdiJZk](https://youtu.be/DgPEtIdiJZk)]
+<video src="https://youtu.be/DgPEtIdiJZk" controls="controls" style="max-width: 730px;">
+</video>
 
